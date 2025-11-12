@@ -74,7 +74,14 @@ python selection_sort_visualizer.py
 
 ## 📷 Screenshots
 
-(Add your Selection Sort visualization screenshots here)
+## 📷 Screenshots
+
+
+### 🎨 During Sorting
+![During Sorting](screenshots/output2.png)
+
+### ✅ Final Sorted Output
+![Final Output](screenshots/output1.png)
 
 ---
 
